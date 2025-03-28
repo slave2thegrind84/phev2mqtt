@@ -4,8 +4,9 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"fmt"
-	log "github.com/sirupsen/logrus"
 	"time"
+
+	log "github.com/sirupsen/logrus"
 )
 
 const (
@@ -15,8 +16,8 @@ const (
 	CmdOutSend = 0xf6
 	CmdInResp  = 0x6f
 
-	CmdInMy18StartReq   = 0x5e
-	CmdOutMy18StartResp = 0xe5
+	CmdInMy18StartReq   = 0x6e
+	CmdOutMy18StartResp = 0xe6
 
 	CmdInMy14StartReq   = 0x4e
 	CmdOutMy14StartResp = 0xe4
