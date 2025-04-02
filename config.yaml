@@ -1,0 +1,7 @@
+name: "Mitsubishi PHEV"
+description: ""
+version: "1.0.5"
+slug: "phev2mqtt"
+init: false
+arch:
+  - armv7

@@ -71,7 +71,7 @@
                 style:
                   top: 60%
                   left: 50%
-            image: https://ha.cactii.net/local/car-top-1.png
+            image: https://png.pngitem.com/pimgs/s/512-5121945_top-view-car-png-transparent-png-download.png
           - type: gauge
             tap_action:
               action: toggle
